@@ -1,0 +1,1 @@
+This is a simple Django application that utilizes HTMX for dynamic content loading, supports internationalization and localization for Russian and English languages, and is optimized for deployment using Docker, Nginx, and Gunicorn. The application also employs Memcached for caching.
